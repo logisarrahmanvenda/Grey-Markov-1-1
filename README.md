@@ -1,4 +1,4 @@
-# Grey GM (1,1) and Markov Chain Model Documentation
+# Grey-Markov(1,1) Model Documentation
 
 This documentation explains the code and methodology implemented in the **Grey_Markov_(1,1).ipynb** notebook. The notebook demonstrates a hybrid approach combining the **Grey GM(1,1) Model** with a **Markov Chain** to forecast Indonesia's oil and gas export values, enhance accuracy, and provide a robust state-based prediction. The process integrates time series prediction, error state classification, Markov transition analysis, and accuracy evaluation.
 
